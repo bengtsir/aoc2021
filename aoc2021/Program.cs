@@ -10,8 +10,8 @@ namespace aoc2021
     {
         static void Main(string[] args)
         {
-            new Day8().Part1();
-            new Day8().Part2();
+            new Day9().Part1();
+            new Day9().Part2();
         }
     }
 }
