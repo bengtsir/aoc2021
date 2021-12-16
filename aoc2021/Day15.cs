@@ -9,7 +9,6 @@ namespace aoc2021
 {
     internal class Day15
     {
-        private long lowestRisk = 99999999999999999;
         private int xSize;
         private int ySize;
 
@@ -50,6 +49,7 @@ namespace aoc2021
                     }
                 }
 
+                /*
                 if (y > 0 && !visited[y - 1][x])
                 {
                     var s = risks[y][x] + values[y - 1][x];
@@ -67,6 +67,7 @@ namespace aoc2021
                         risks[y][x - 1] = s;
                     }
                 }
+                */
 
                 visited[y][x] = true;
 
