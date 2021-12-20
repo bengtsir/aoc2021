@@ -53,7 +53,9 @@
     <Compile Include="Day16.cs" />
     <Compile Include="Day17.cs" />
     <Compile Include="Day18.cs" />
+    <Compile Include="Day19.cs" />
     <Compile Include="Day2.cs" />
+    <Compile Include="Day20.cs" />
     <Compile Include="Day3.cs" />
     <Compile Include="Day4.cs" />
     <Compile Include="Day5.cs" />
@@ -94,6 +96,12 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\day18.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\day19.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="data\day20.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="data\day4.txt">
